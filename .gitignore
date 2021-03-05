@@ -1,0 +1,15 @@
+/.vs/
+/Library/
+/obj/
+/Temp/
+*.csproj
+*.sln
+/Logs/
+/UserSettings/
+/Packages/
+*.vsconfig
+*.cd
+*.pidb
+*.userprefs
+*.suo
+*.asmdef
